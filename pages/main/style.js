@@ -1,8 +1,8 @@
 export const MainContainer = {
-  marginTop: 50,
-  marginBottom: 50,
-  marginRight: 20,
-  marginLeft: 20,
+  marginTop: 40,
+  marginBottom: 40,
+  marginRight: 15,
+  marginLeft: 15,
   backgroundColor: 'rgba(4, 10, 7, 0.75)',
   borderRadius: 7,
   height: '90%'

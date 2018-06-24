@@ -2,7 +2,7 @@ import { colours } from '../../constants/styles';
 
 export const animatedContainerStyle = {
   width:'90%',
-  height: 80,
+  height: 70,
   backgroundColor:'white',
   borderRadius: 6,
   marginTop: 20,
@@ -15,7 +15,7 @@ export const innerContainerStyle = {
 };
 
 export const barNameStyle ={
-  fontSize: 15,
+  fontSize: 12,
   width: '100%',
   marginLeft:10,
   marginRight: 5,

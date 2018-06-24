@@ -21,3 +21,22 @@ T
 $components/ZoneChooser/Zone/index.js,c/7/c750a232b27c50d7904498d32418a3d76a817bfc
 O
 components/ZoneChooser/index.js,8/6/86f7120f2a82d48287e9780c298d46b4972a42fb
+K
+containers/Results/style.js,9/5/95d5c7dde0a8bd25e042bf6c266bf55bf69cfddf
+I
+helpers/distanceHelper.js,e/6/e6b3b6d439f11f4d7a3960d1c26b8e8f22abec01
+C
+pages/main/style.js,2/c/2cbc2de28682f604bbd81e6fa7c6d4ad9457c290
+@
+data/stations.js,5/6/5644289ce6c86d3e9b1efb1ebf37f9f0478f4018
+O
+components/ResultsCard/style.js,c/e/ce81c24644811d6f10aa95d0bd59fccf037f7e80
+O
+components/ResultsCard/index.js,5/b/5ba99614307b54bcee865a3ea44f8a24b8d7486e
+K
+containers/Results/index.js,b/7/b70891ff50b225baa166e1476dcd97b36fe7760c
+C
+pages/main/index.js,d/f/dfd5eb38a49e50d202a0d30fdcf57f73890cf39b
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302

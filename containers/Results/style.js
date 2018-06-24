@@ -9,5 +9,10 @@ export const stationText = {
   fontSize: 40,
   marginTop: 15,
   fontWeight: 'bold'
+}
 
+export const postcodeText = {
+  color: 'white',
+  fontSize: 25,
+  fontWeight: 'bold'
 }
