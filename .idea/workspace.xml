@@ -377,6 +377,20 @@
     </option>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="#org.intellij.plugins.hcl.terraform.run.TerraformConfigurationType" factoryName="Terraform Apply">
+      <option name="PROGRAM_PARAMETERS" value="apply" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.intellij.plugins.hcl.terraform.run.TerraformConfigurationType" factoryName="Terraform Plan">
+      <option name="PROGRAM_PARAMETERS" value="plan" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
@@ -461,12 +475,12 @@
       <workItem from="1529588792780" duration="4744000" />
       <workItem from="1529931880822" duration="1566000" />
       <workItem from="1530527409484" duration="23000" />
-      <workItem from="1530621482630" duration="221000" />
+      <workItem from="1530621482630" duration="306000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43689000" />
+    <option name="totallyTimeSpent" value="43774000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="821" extended-state="6" />
