@@ -49,6 +49,26 @@ export class Main extends Component{
     this.setState({modalVisible: true})
   }
 
+  // render(){
+  //   return (
+  //     <View style={ MainContainer }>
+  //       <StationChooser onStationChosen={this.onStationChosen}/>
+  //       { this.state.station.Station ? <Results showModal={this.showModal} station={this.state.station} bars={this.state.bars} clearResults={this.state.clearResults}/>: null}
+  //       <Popup
+  //         isVisible={this.state.modalVisible}
+  //         onCancelPressed={() => this.setState({ modalVisible: false })}
+  //         onAppPressed={() => this.setState({ modalVisible: false })}
+  //         onBackButtonPressed={() => this.setState({ modalVisible: false })}
+  //         modalProps={{ // you can put all react-native-modal props inside.
+  //           animationIn: 'slideInUp'
+  //         }}
+  //         appsWhiteList={['google-maps']}
+  //         options={{latitude: this.state.station.Latitude, longitude:this.state.station.Longitude}}
+  //       />
+  //     </View>
+  //   )
+  // }
+
   render(){
     return (
       <View style={ MainContainer }>

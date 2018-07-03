@@ -40,3 +40,9 @@ C
 :
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+;
+App.test.js,1/c/1cbd3a1f153fab710769312ca3ad595e191383bf
+8
+.babelrc,b/c/bcac7464521b8c19a2372c739f6dc9e9ab7dfc80
+M
+services/getPlacesServices.js,d/c/dcf5394cfd86c476e4bf0dc90c41f0c5d5ee43c2

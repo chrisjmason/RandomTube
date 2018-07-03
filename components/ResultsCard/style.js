@@ -1,7 +1,7 @@
 import { colours } from '../../constants/styles';
 
 export const animatedContainerStyle = {
-  width:'90%',
+  width: '90%',
   height: 70,
   backgroundColor:'white',
   borderRadius: 6,
@@ -9,6 +9,12 @@ export const animatedContainerStyle = {
   borderColor: colours.orange,
   borderWidth: 2
 };
+
+// export const touchableHighlightStyle = {
+//   width: '90%',
+//   justifyContent: 'center',
+//   alignItems: 'center'
+// };
 
 export const innerContainerStyle = {
   flexDirection: 'row'
