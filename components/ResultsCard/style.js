@@ -10,12 +10,6 @@ export const animatedContainerStyle = {
   borderWidth: 2
 };
 
-// export const touchableHighlightStyle = {
-//   width: '90%',
-//   justifyContent: 'center',
-//   alignItems: 'center'
-// };
-
 export const innerContainerStyle = {
   flexDirection: 'row'
 };

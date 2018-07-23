@@ -18,6 +18,6 @@ Zone.propTypes = {
   number: PropTypes.number.isRequired,
   isSelected: PropTypes.bool.isRequired,
   onClick: PropTypes.func.isRequired
-}
+};
 
 export default Zone;

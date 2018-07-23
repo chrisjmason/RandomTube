@@ -37,7 +37,6 @@ export class ResultsCard extends Component {
 
   render(){
     return(
-
       <Animated.View style={[{opacity: this.state.opacity}, animatedContainerStyle]}>
         <TouchableWithoutFeedback style={touchableHighlightStyle} onPress={this.openMap}>
         <View style={innerContainerStyle}>
